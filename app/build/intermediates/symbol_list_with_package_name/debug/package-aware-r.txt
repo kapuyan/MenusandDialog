@@ -758,10 +758,12 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable donut_circle
 drawable froyo_circle
+drawable ic_favorites
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_map
 drawable ic_shopping_cart
+drawable ic_status_info
 drawable icecream_circle
 drawable navigation_empty_icon
 drawable notification_action_background
