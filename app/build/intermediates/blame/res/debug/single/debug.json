@@ -112,12 +112,12 @@
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_info.png.flat",
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorites.png.flat",
@@ -156,16 +156,16 @@
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
-        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\layout\\activity_order.xml"
+        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
-        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
+        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\src\\main\\res\\layout\\activity_order.xml"
     },
     {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",

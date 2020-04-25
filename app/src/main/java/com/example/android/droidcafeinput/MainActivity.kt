@@ -15,6 +15,7 @@
  */
 package com.example.android.droidcafeinput
 
+
 import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.FloatingActionButton
@@ -24,7 +25,7 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
-import com.example.android.droidcafeinput.MainActivity
+
 
 /**
  * This app demonstrates images used as buttons and a floating action button to
@@ -79,13 +80,31 @@ class MainActivity : AppCompatActivity() {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        val id = item.itemId
+        when (item.itemId) {
+            R.id.action_order -> {
+                val intent = Intent(this, OrderActivity::class.java)
+                intent.putExtra(EXTRA_MESSAGE, mOrderMessage)
+                startActivity(intent)
+                displayToast(getString(R.string.action_order_message))
+                return true
 
-        // This comment suppresses the Android Studio warning about simplifying
-        // the return statements.
-        return if (id == R.id.action_order) {
-            true
-        } else super.onOptionsItemSelected(item)
+            }
+            R.id.action_status -> {
+                displayToast(getString(R.string.action_status_message))
+                return true
+            }
+            R.id.action_favorites -> {
+                displayToast(getString(R.string.action_favorites_message))
+                return true
+            }
+            R.id.action_contact -> {
+                displayToast(getString(R.string.action_contact_message))
+                return true
+            }
+            else -> {
+            }
+        }
+        return super.onOptionsItemSelected(item)
     }
 
     /**
